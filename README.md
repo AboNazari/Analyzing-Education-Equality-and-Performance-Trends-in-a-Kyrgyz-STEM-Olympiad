@@ -76,7 +76,7 @@ Includes reports from UNESCO, World Bank, OECD, academic journals, and a link to
 Detailed instructions on setting up the environment, installing dependencies, and running the analysis code.
 
 ## License
-Specify the license under which the project is released, such as MIT or GPL.
+
 
 ## Acknowledgements
 Acknowledging contributors, institutions, and funding sources, including any grants or scholarships received.
