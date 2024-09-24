@@ -1,33 +1,33 @@
-# Analyzing Education Equality and Performance Trends in the Republican Olympiad on Mathematics: An OSUN Case Study
+## Analyzing Education Equity and Performance Trends in the Republican Olympiad on Mathematics: An OSUN Research Study
 
-## Authors
+### Authors
 - Abdullah Nazari
 - Fatima Fayazi
 
-## Supervisor
+### Supervisor
 - Professor Pollina Dolmatova
 
-## Abstract
+### Abstract
 This research project examines education equality and performance trends within the Republican Olympiad on Mathematics (ROM). Utilizing the latest ROM data, it reveals disparities in participation and achievement across gender, regional, and school-type categories, emphasizing the unique impact of civic initiatives on Kyrgyzstan's educational landscape.
 
-## Introduction
+### Introduction
 Focusing on ROM as a response to educational inequality in STEM in Kyrgyzstan, this study delves into participant demographics and performance trends, highlighting disparities and providing policy recommendations.
 
-## Objectives
+### Objectives
 - Conduct a statistical analysis of ROM participation based on region, school type, and gender.
 - Investigate performance discrepancies across different demographics.
 - Examine the impact of socio-economic factors on educational outcomes.
 
-## Scope and Limitations
+### Scope and Limitations
 The study includes ROM data from 2022, with limitations related to data completeness and interpretational biases.
 
-## Thesis Statement
+### Thesis Statement
 The study aims to analyze and interpret the representation and performance in ROM, contributing to educational policy development in Kyrgyzstan.
 
-## Literature Review
+### Literature Review
 This section reviews global educational equality trends, gender disparities in STEM, and the role of Mathematics Olympiads in educational assessment.
 
-## Methodology
+### Methodology
 ### Data Collection
 Data sourced from the ROM Organizing Committee for the 2022 event.
 
@@ -39,14 +39,14 @@ Data sourced from the ROM Organizing Committee for the 2022 event.
 ### Ethical Considerations
 Commitment to unbiased analysis, transparent data handling, and ethical use of information.
 
-## Technologies and Coding Practices
+### Technologies and Coding Practices
 - **Programming Language**: Python 3.x.
 - **Version Control**: Git for tracking changes and collaboration.
 - **Code Quality**: Adherence to PEP 8 standards for Python code style.
 - **Data Storage and Sharing**: Use of GitHub for hosting code and data (where permissible).
 - **Documentation**: Inline comments and Jupyter Notebooks for explanatory and interactive analysis.
 
-## Findings
+### Findings
 ### Participant Demographics
 In-depth analysis of gender, region, and school type distribution among ROM participants.
 
